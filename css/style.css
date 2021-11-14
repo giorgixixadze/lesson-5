@@ -1,0 +1,149 @@
+/*navigation*/
+.logo{
+	size: 13px;
+	color: #FA6980;
+	display: inline-block;
+	padding-left: 20px;
+
+}
+.home{
+	size: 11px;
+	color: #343638;
+	display: inline-block;
+	padding-left: 92px
+}
+.nav{
+	size: 11px;
+	color: #A6ADB4;
+	display: inline-block;
+	padding-left:27px; 
+}
+/*pirveli bloki*/
+.blok1-1 {
+	color: #202124;
+	size: 24px;
+	margin-top:25px; 
+	margin-bottom: 40px;
+	margin-left: 140px;
+}
+.blok1{
+	width: 360px;
+	display: inline-block;
+	margin-left: 140px;
+	padding-right: 40px;
+}
+.blok2{
+	width: 360px;
+	display: inline-block;
+	padding-left: 40px;
+	padding-right: 40px;
+}
+.blok3{
+	width: 360px;
+	display: inline-block;
+	padding-left: 80px;
+/*	padding-right: 140px;*/
+
+}
+.bloktext1{
+	size: 13px;
+	color: #A6ADB4;
+}
+/*textis fotoze gamosaxva*/
+.box1text{
+	position: relative;
+
+}
+.textabsolute{
+	position: absolute;
+	top: 28px;
+	left: 40px;
+	color: #FFFFFF;
+}
+.box2text{
+	position: relative;
+}
+.box2absolute{
+	position: absolute;
+	left: 40px;
+	top: 28px;
+	width: 280px;
+	color: #FFFFFF;
+	size: 16px;
+}
+.box3text{
+	position: relative;
+}
+.box3absolute{
+	position: absolute;
+	left: 40px;
+	top: 28px;
+	width: 280px;
+	color: #FFFFFF;
+	size: 16px;
+}
+
+
+/*meore bloki*/
+.satauri{
+	size: 24px;
+	color: #202124;
+	padding-left: 140px;
+	padding-top: 58px;
+}
+.box1{
+	width: 760px;
+	display: inline-block;
+	padding-left: 140px;
+	padding-top: 40px;
+	vertical-align: top;
+}
+.box2{
+	width: 360px;
+	height: 896px;
+	display: inline-block;
+	margin-right: px;
+	margin-left: 180px;
+	margin-top: 30px;
+	vertical-align: top;
+}
+.img1{
+	padding-bottom: 120px;
+}
+.img2{
+	padding-bottom: 120px;
+}
+
+/*footer blok*/
+.footerblok{
+	background-color: #A6ADB4;
+	height: 200px;
+
+}
+.footerbox1{
+	display: inline-block;
+	size: 13px;
+	width: 37px;
+	margin-left: 142px;
+	margin-top: 58px;
+	margin-right: 89px;
+	margin-bottom: 129px; 
+}
+.footerbox2{
+	display: inline-block;
+	margin: 56px 86px 60px 89px;
+}
+.footerbox3{
+	display: inline-block;
+	margin: 56px 80px 60px 5px;
+}
+.footerbox4{
+	display: inline-block;
+	margin: 56px 513px 60px 85px;
+}
+.footericon{
+	display: inline-block;
+	/*margin: 56px 128px 128px 13px;*/
+	margin-top: 56px;
+
+}
